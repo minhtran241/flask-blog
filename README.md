@@ -6,6 +6,7 @@
 </div>
 
 ### ✅ Flask Blog
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### _Create an account and post anything you want 📣_
 
@@ -20,5 +21,6 @@ This is the Blog Engine built with Flask, Flask-SQLAlchemy, WTForms, Flask-WTF, 
 ## Purpose
 
 I create Flask Blog as my first Flask project. 
-In the future, I want to learn more about Flask framework ✅
+In the future, I want to learn more about Flask framework 
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
