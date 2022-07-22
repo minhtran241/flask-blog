@@ -1,0 +1,12 @@
+<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='errors/errors.css') }}">
+<h1>Page Not Found</h1>
+<p class="zoom-area"> It seems that the page you are looking for is lost. </p>
+<section class="error-container">
+  <span>4</span>
+  <span><span class="screen-reader-text">0</span></span>
+  <span>4</span>
+</section>
+<div class="link-container">
+  <a target="_blank" href="{{ url_for('main.home') }}" class="more-link">Back to Home</a>
+</div>

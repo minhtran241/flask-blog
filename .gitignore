@@ -1,0 +1,31 @@
+.DS_Store
+.env
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
+.idea
+flask_venv
+environment.env
+
+# flaskBlog folder
+flaskBlog/.DS_Store
+flaskBlog/site.db
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
