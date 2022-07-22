@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This is the Blog Engine built with Flask, Flask-SQLAlchemy, WTForms, Flask-WTF, Flask-Migrate
+This is the Blog Engine built with Flask, Flask-SQLAlchemy, WTForms, Flask-WTF, Flask-Login, Flask-Mail
 
 ## Purpose
 
